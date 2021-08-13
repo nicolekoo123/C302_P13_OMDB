@@ -78,18 +78,7 @@ public class MainActivity extends AppCompatActivity {
                         adapter.notifyDataSetChanged();
                     }
                 });
-
-
-        listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
-            @Override
-            public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
-                Movie student = list.get(i);  // Get the selected Student
-                Intent intent = new Intent(MainActivity.this, ViewMovieDetailsActivity.class);
-                intent.putExtra("MovieID", student.getMovieId());
-                startActivityForResult(intent, 1);
-            }
-        });
-
+        
 
         listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
