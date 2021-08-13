@@ -1,0 +1,2 @@
+rootProject.name = "C302_P13_OMDB"
+include ':app'

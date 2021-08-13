@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "893548021900",
+    "project_id": "c302p13omdb-a3eab",
+    "storage_bucket": "c302p13omdb-a3eab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893548021900:android:d9e11380dacd2d16cfd3a9",
+        "android_client_info": {
+          "package_name": "sg.edu.rp.c346.id19047433.c302_p13_omdb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893548021900-alfjdlvkemjp8r2r5gkl2o1v70fdogv6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs2P2_7U8Wl4AM9561hi15UszPKyML53g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893548021900-alfjdlvkemjp8r2r5gkl2o1v70fdogv6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
